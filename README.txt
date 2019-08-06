@@ -11,6 +11,8 @@ Copy "TRANS.TXT"  when transaction related functions are not working perfectly.
 
 You can execute ultra.exe (created in x64 system ) only using dosbox OR running in compatiblity mode.
 
+Other version are other version of the program which I don't clearly remember if they have less bugs or not.
+
 NAME : MANAS
 SCHOOL : DAV SRESHTHA VIHAR
 CLASS 12th C++ Project on Bank Management System.                                                     
